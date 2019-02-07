@@ -19,6 +19,8 @@
 * Prepare a photo
 * Run the code
 * Be patient (It will run around five minutes)
+
+![](https://i.imgur.com/QbmRU0h.png)
 ## Detail
 * User input, including file_path, folder_path, keywords.
 * Ask the user if he want to crop the face or not.
@@ -33,3 +35,5 @@
 * Save the photo file and output it though a window.
 ## Test Result
 ![](https://i.imgur.com/BhQfPxY.png)
+![](https://i.imgur.com/P7wew00.jpg)
+![](https://i.imgur.com/3UybkGw.png)
